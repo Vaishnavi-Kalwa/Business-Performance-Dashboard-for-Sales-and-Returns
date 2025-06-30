@@ -1,4 +1,4 @@
-# E-Commerce-Sales-Analysis
+# Business Performance Dashboard for Sales and Returns
 # Business Needs
 To analyze overall sales performance, identify top-performing products and countries, and understand key drivers of profit, discounts, and returns across markets. The goal was to uncover actionable insights and recommend strategies to boost sales.
  # Description
